@@ -6,7 +6,7 @@ Determine if a trade is a win, a loss, or fair with our Blox Fruits Calculator t
 
 You can also use this calculatoor on the website: [https://bloxfruitscalculator.org/](https://bloxfruitscalculator.org/)
 
-![sprunki-retake-deluxe](https://cdn.sprunki.art/sprunki-retake-deluxe/cover.webp)
+![BLox Fruits Calculator](https://github.com/ZissyW/blox-fruit-calculator/blob/master/extension-cover.png)
 
 ### What is about Blox Fruits
 
