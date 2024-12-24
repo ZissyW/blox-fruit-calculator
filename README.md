@@ -50,4 +50,4 @@ We welcome contributions! If you have ideas for new features, bug fixes, or impr
 
 ## Thanks for
 
-[BFCalculator Carrd](https://bfcalculator.carrd.co/) | [Linktr](https://linktr.ee/bfcalculator) | [HeyLink](https://heylink.me/bfcalculator)
+[BFCalculator Carrd](https://bfcalculator.carrd.co/) | [Linktr](https://linktr.ee/bfcalculator) | [HeyLink](https://heylink.me/bfcalculator) | [DNSFish](https://dns.fish/lookup/bloxfruitscalculator.org)
