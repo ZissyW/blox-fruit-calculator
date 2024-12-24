@@ -32,7 +32,7 @@ npm run dev
 
 Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: build/chrome-mv3-dev.
 
-### How to use Blox Fruits Calculator?
+## How to use Blox Fruits Calculator?
 
 You can swap your unused fruits for another one that you want in trading. Therefore, you can use the Blox Fruits Calculator to determine your trade is a win or loss.
 
