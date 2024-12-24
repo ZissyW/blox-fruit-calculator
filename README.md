@@ -2,19 +2,35 @@ This is a [Blox Fruits Value Calculator](https://bloxfruitscalculator.org/) proj
 
 ## Blox Fruits Calculator - Calculate the total price and value for your trade
 
-Determine if a trade is a win, a loss, or fair with our Blox Fruits Calculator tool, calculator the values of your inventory in Blox Fruits.
+Check out the latest Fruits values with the Blox Fruits Calculator, a Fruits Value list built by worldwide experienced players.
 
-You can also use this calculatoor on the website: [https://bloxfruitscalculator.org/](https://bloxfruitscalculator.org/)
+You can also use this calculator on the website: [https://bloxfruitscalculator.org/](https://bloxfruitscalculator.org/)
 
 ![BLox Fruits Calculator](https://github.com/ZissyW/blox-fruit-calculator/blob/master/extension-cover.png)
 
-### What is about Blox Fruits
+[Value List](https://bloxfruitscalculator.org/values) | [Trade Calculator](https://bloxfruitscalculator.org/)
 
-Blox Fruits is a UGC game based on the One Piece, in which players need to gradually upgrade levels by defeating bosses and completing quests to become the strongest warrior.
+### How was the extension created?
 
-As the name suggests, the huge part of the game are "Fruits", each of which give players special abilities, the strength of which varies with different levels of fruits.
+This extension project is created by PlasmoJS and built UI with React and TypeScript.
 
-Players can to buy permanent fruits or trade fruits with other players. that’s why trading can be a very useful feature that you must take advantage of Blox Fruits Calculator.
+#### System Requirements
+
+- Node.js 16.x or later
+- MacOS, Windows, or Linux
+- (Strongly Recommended) pnpm
+
+#### Getting Started
+
+First, run the development server:
+
+``` bash
+pnpm dev
+# or
+npm run dev
+```
+
+Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: build/chrome-mv3-dev.
 
 ### How to use Blox Fruits Calculator?
 
@@ -28,22 +44,10 @@ You can swap your unused fruits for another one that you want in trading. Theref
 
 Use this Blox Fruits Calculator will helps you to make smarter trading decisions and ensures you get the best value for your items.
 
-### FAQs for Blox Fruits Calculator
-
-This is things you should know about Blox Fruits Calculator & Blox Fruits trading.
-
-#### What's mean the trade in Blox Fruits?
-
-Trade is the only way for players to exchange Blox Fruits, there are currently only 2 places where the player can trade, those being the Café (Second Sea) and the Mansion (Third Sea).
-
-#### Is there a limit to the number of trading?
-
-Trading is possible up to 5 times every 8 hours, which means if you maxed your trading for that day, it will automatically reset after the day ended or after the clock hits.
-
-#### What are price and value? what's difference between them?
-
-The Price is the money (beli) it costs to obtain the items in game and the Value is a more accurate description of how much people will trade "fruit-for-fruit."
-
 ## Contributing
 
 We welcome contributions! If you have ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request. Please make sure to follow our coding standards and include tests where applicable.
+
+## Thanks for
+
+[BFCalculator Carrd](https://bfcalculator.carrd.co/) | [Linktr](https://linktr.ee/bfcalculator) | [HeyLink](https://heylink.me/bfcalculator)
